@@ -1,0 +1,335 @@
+  165  cd /
+  166  cd home
+  167  cd admintrator
+  168  cd administrator
+  169  cd Desktop
+  170  ls
+  171  cd demo1.txt
+  172  cd ..
+  173  cd demo1.txt
+  174  ls
+  175  cd file1.txt
+  176  touch file1.txt
+  177  ls
+  178  file1.txt
+  179  cat file1.txt
+  180  grep "hello" file1.txt
+  181  cat > file1.txt
+  182  cd /
+  183  ls
+  184  cd clear
+  185  clear
+  186  cd /
+  187  cd administrator
+  188  clear
+  189  cd /
+  190  ls
+  191  clear
+  192  cd /
+  193  cd administrator
+  194  clear
+  195  cd /
+  196  cd home
+  197  cd administrator
+  198  cd home
+  199  clear
+  200  cd /
+  201  cd home
+  202  cd administrator
+  203  cd /
+  204  ls
+  205  cd home
+  206  ls
+  207  cd administrator
+  208  ls
+  209  cd Desktop
+  210  ls
+  211  cd demo1.txt
+  212  ls
+  213  cd file1.txt
+  214  cat >file1.txt
+  215  grep "day" | wc -l
+  216  cat/ etc/passwd
+  217  cat/ect/passwd
+  218  cat etc/passwd
+  219  cat /etc/passwd
+  220  chmod u+x demo1
+  221  sudo useradd dine
+  222  cat /etc/passwd
+  223  su dine
+  224  cd /
+  225  cat/etc/passwd
+  226  clear
+  227  cd /
+  228  cd
+  229  ls
+  230  cd Desktop
+  231  sudo useradd dina
+  232  sudo su  dina
+  233  su dina
+  234  ls
+  235  cd file1.txt
+  236  rm -r
+  237  rm -r*
+  238  ls
+  239  clear
+  240  cat /etc/passwd
+  241  su dina
+  242  su dina 
+  243  ll file6.txt
+  244  chmod o+w file6.txt
+  245  ll file6.txt
+  246  su dina
+  247  sudo userdel dine
+  248  sudo userdel dina
+  249  cat /etc/passwd
+  250  clear
+  251  cat /etc/passwd
+  252  govind is good boy
+  253  history
+  254  nano
+  255  nano script.sh
+  256  ./script.sh
+  257  nano script.sh
+  258  ./script.sh
+  259  chmod +x script.sh
+  260  ./script.sh
+  261  nano script.sh
+  262  ./script.sh
+  263  nano script.sh
+  264  nano dina.sh
+  265  ./dina.sh
+  266  chmod +x dina.sh
+  267  ./dina.sh
+  268  nano dina.sh
+  269  ./dina.sh
+  270  nano dina.sh
+  271  ./dina.sh
+  272  nano dina.sh
+  273  ./dina.sh
+  274  nano dina.sh
+  275  ./dina.sh
+  276  nano dina.sh
+  277  nano k.sh
+  278  chnod +x
+  279  chmod +x
+  280  chmod +x k.sh
+  281  ./k.sh
+  282  nano k.sh
+  283  ./k.sh
+  284  nano k.sh
+  285  ./k.sh
+  286  nano k.sh
+  287  ./k.sh
+  288  nano k.sh
+  289  ./k.sh
+  290  nano k.sh
+  291  ./k.sh
+  292  nano k.sh
+  293  ./k.sh
+  294  ./dina.sh
+  295  nano dina.sh
+  296  nano dk.sh
+  297  clear
+  298  top
+  299  q
+  300  nano dk.sh
+  301  ./dk.sh
+  302  chmod +x dk.sh
+  303  ./dk.sh
+  304  nano dk.sh
+  305  ./dk.sh
+  306  nano dk.sh
+  307  ./dk.sh
+  308* 
+  309* 
+  310  clear
+  311  sudo apt update
+  312  sudo apt install git
+  313  git --version
+  314  nano dk.sh
+  315  y
+  316  cls
+  317  ls
+  318  git congif --list
+  319  git config --list
+  320  git config --global --unset core.el
+  321  git config --
+  322  git config --global core.autocrlf input
+  323  git config --list
+  324  git init
+  325  cd cloud
+  326  cd 
+  327  ls
+  328  cd Desktop
+  329  cd cloud
+  330  ls
+  331  clear
+  332  git clone https://github.com/dinakaran2006/democloud.git
+  333  ls
+  334  rm *
+  335  rm -r*
+  336  ls
+  337  rm -r*
+  338  ls
+  339  git clone https://github.com/dinakaran2006/democloud.git
+  340  ls
+  341  cd democloud
+  342  touch file.txt
+  343  ls
+  344  git addfile.txt
+  345  git add file.txt
+  346  cat > file.txt
+  347  git commit -m
+  348  git commit -m "first commit"
+  349  git config --global user.email "dinadina4994@gmail.com"
+  350  git status
+  351  add file.txt
+  352  git status
+  353  add file.txt
+  354  git status
+  355  get add file.txt
+  356  git add file.txt
+  357  git status
+  358  git commit -m "commit
+  359  "
+  360  git status
+  361  git push origin  main
+  362  git remote
+  363  git remote_v
+  364  git remote -v
+  365  git remote set-url orgin https://github.com/dinakaran2006/democloud.git (push)
+  366  cd Desktop
+  367  cd cloud
+  368  ls
+  369  cd cloud demo
+  370  democloud
+  371  cd democloud
+  372  git commit -m "commit
+  373  "
+  374  git remote set-url orgin https://github.com/dinakaran2006/democloud.git (push)
+  375  git remote set-url orgin https://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@github.com/username/reponame"
+  376  "
+  377  git remote set-url orgin "https://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@github.com/username/reponame"
+  378  git remote set-url origin "https://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@github.com/username/reponame"
+  379  git status
+  380  git push origin main
+  381  git remote set-url origin "https://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@github.com/username/reponame"
+  382  git status
+  383  git push origin main
+  384  git clone "https://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@github.com/username/reponame"
+  385  git clone "https://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@github.com/username/reponame"
+  386  git remote -v
+  387  git clone "https://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@github.com/username/reponame"
+  388  git clone "https://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@github.com/dinakaran/reponame"
+  389  git clone "https://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@github.com/dinakaran2006/reponame"
+  390  git clone "https://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@github.com/dinakaran2006/github"
+  391  git clone "https://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@github.com/dinakaran2006/ggithub.git"
+  392  git clone "https://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@github.com/dinakaran2006/github.git"
+  393  git clone "https://ghp_github_path_Tx7ju1iVzsQzvwSwhAjDS8DtdamqCe0VicAf@github.com/dinakaran2006/github.git"
+  394  clear
+  395  cd ..
+  396  mkdir dir1
+  397  cd dir1
+  398  git init
+  399  git clone "https://clear
+  400  clear
+  401  ls
+  402  cd administrator
+  403  clear
+  404  mkdir dir2
+  405  cd ..
+  406  mkdir dir2
+  407  ls
+  408  cd dir2
+  409  cd democloud
+  410  git clone
+  411  cd /
+  412  ls
+  413  cd Desktop
+  414  cd home
+  415  ls
+  416  cd administrator
+  417  ls
+  418  cd Desktop
+  419  mkdir dir
+  420  cd dir
+  421  git init
+  422  git clone
+  423  git config --list
+  424  git clone "https://ght_TI4ng8e20pXLSjYILKta1389vMSf3D2y45fL@github.com/dinakaran2006/democloud.git"
+  425  cd democloud
+  426  cat > file.txt
+  427  git add file.txt
+  428  git commit -m "message
+  429  git commit -m "message"
+  430  git push origin main
+  431  history
+  432  cd ..\
+  433  cd /
+  434  ls
+  435  cd home
+  436  ls
+  437  cd administrator
+  438  ls
+  439  cd Desktop
+  440  ls
+  441  cd dir
+  442  git init
+  443  git clone
+  444  gitr clone "https://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@github.com/dinakaran2006/cloud.git"
+  445  cd cloud
+  446  cat >file2.txt
+  447  git commit -m "hello"
+  448  clear
+  449  history
+  450  clear
+  451  cd 
+  452  ls
+  453  cd Desktop
+  454  mkdir personalized_content_data
+  455  cd
+  456  cd Desktop
+  457  cd personalized_content_data
+  458  touch january
+  459  touch february
+  460  touch march
+  461  touch april
+  462  touch may
+  463  touch june
+  464  touch july
+  465  touch august
+  466  touch september
+  467  touch october
+  468  touch november
+  469  touch december
+  470  history
+  471  nano srini.sh
+  472  ./srini.sh
+  473  chmod +x srini.sh
+  474  ./srini.sh
+  475  clear
+  476  cd 
+  477  ls
+  478  cd Desktop
+  479  ls
+  480  cd demo
+  481  ls
+  482  cd user1
+  483  cat > user1
+  484  grep "hello" | wc
+  485  cat use1 |wc -l
+  486  cat > file1.txt
+  487  cat file1.txt |wc -l
+  488  cat file1.txt |wc -w
+  489  cat file1.txt |wc -c
+  490  nano script.sh
+  491  history
+  492  cd ..
+  493  rm demo project
+  494  rm -r demo project
+  495  cd ..
+  496  rm demo project
+  497  clear
+  498  history
+
